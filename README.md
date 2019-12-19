@@ -1,3 +1,5 @@
+ [![Build Status](https://dev.azure.com/joshlyon/Area51/_apis/build/status/joshua-lyons.pipelines-java?branchName=master)](https://dev.azure.com/joshlyon/Area51/_build/latest?definitionId=2&branchName=master)
+
 
 # Contributing
 
